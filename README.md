@@ -1,7 +1,6 @@
 # Requrement Analysis in software Development
 
 
-## Introduction
 This repository is created as part of a learning project to understand the importance of **Requirement Analysis** in the Software Development Lifecycle (SDLC).  
 It contains structured documentation, diagrams, and examples demonstrating how requirement analysis ensures successful software projects.
 
