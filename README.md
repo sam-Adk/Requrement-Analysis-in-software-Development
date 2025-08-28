@@ -1,4 +1,4 @@
-# Requrement-Analysis-in-software-Development
+# Requrement Analysis in software Development
 
 
 ## Introduction
